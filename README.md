@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Solinx97
-- 👀 I’m interested in .Net, Vue.js and React.js development. Adittional, I'm interested in Cloud: Azure.
-- 🌱 I’m currently learning: ASP Core with React.js.
+- 👀 I’m interested in .Net (Asp.Net Core and WPF Core) and React.js development. Additionally, I'm interested in Cloud (Azure) and Kubernetes.
+- 🌱 I’m currently learning: ASP.Net Core + React.js and WPF Core.
 - 📫 How to reach me: from email (firstkillinbattle@gmail.com) or in Twitter (@_solinx_).
 
 <!---
